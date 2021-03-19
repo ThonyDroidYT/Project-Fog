@@ -89,7 +89,7 @@ For Ubuntu Distro:
 ```sh
 sudo su
 wget https://github.com/korn-sudo/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
-wget https://github.com/ThonyDroidYT/Project-Fog/raw/main/fog-ubuntu && chmod +x ./fog-ubuntu && ./fog-ubuntu
+wget https://github.com/ThonyDroidYT/Project-Fog/raw/main/fog-ubuntu.sh && chmod +x ./fog-ubuntu.sh && ./fog-ubuntu.sh
 ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
